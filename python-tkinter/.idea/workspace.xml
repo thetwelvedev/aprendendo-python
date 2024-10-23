@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6297ef-6799-4311-b152-b6baeeb184cf" name="Changes" comment="Primeiro código usando o tkinter" />
+    <list default="true" id="db6297ef-6799-4311-b152-b6baeeb184cf" name="Changes" comment="Aulas de tkinter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/stude/OneDrive/Documentos/Repositories/aprendendo-python/python-tkinter&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.aula10.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/stude/OneDrive/Documentos/Repositories/aprendendo-python/python-tkinter"
   }
-}</component>
-  <component name="RunManager" selected="Python.main">
+}]]></component>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-tkinter" />
       <option name="ENV_FILES" value="" />
@@ -121,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729658780264</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arquivos .idea">
+      <option name="closed" value="true" />
+      <created>1729659029185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729659029185</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aulas de tkinter">
+      <option name="closed" value="true" />
+      <created>1729659103536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729659103536</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro código usando o tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro código usando o tkinter" />
+    <MESSAGE value="Arquivos .idea" />
+    <MESSAGE value="Aulas de tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aulas de tkinter" />
   </component>
 </project>
