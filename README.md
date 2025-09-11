@@ -32,4 +32,6 @@
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
     <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"> 
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat" alt="Google Colab">
+    <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter Notebook">
 </div>
