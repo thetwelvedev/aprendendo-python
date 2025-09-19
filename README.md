@@ -24,11 +24,7 @@
 ### Python: avançando na Orientação a Objetos 10h
 > Design patterns, interfaces e classes abstratas (módulo abc), métodos de classe e estáticos, sobrecarga de operadores, gerenciamento de erros em OOP, modularização avançada, Type Hints (anotações de tipos) e boas práticas em projetos OOP.
 ***
-## Python Orientado a Objetos:
-***
 ## Python Tkinter:
-***
-## Python Flet:
 ***
 ## Ferramentas e linguagens utilizadas:
 <div>
