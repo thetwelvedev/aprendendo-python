@@ -27,6 +27,7 @@
 ## Python Tkinter:
 > Fundamentos Básicos, Widgets Principais(Label, Button, Entry, Checkbutton, Radiobutton, Listbox, Combobox, Frame), Gerenciadores de Layout (Grid, Pack, Place), Funcionalidades Avançadas( Event binding, Variáveis de controle, Manipulação de widgets, Comandos de callback, Propriedades de estilo), Conceitos Importantes (Widget parent/child, Event handling, Estado de widgets), Manipulação dinâmica de conteúdo dos widgets.
 ***
+
 ## Ferramentas e linguagens utilizadas:
 <div>
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
