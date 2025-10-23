@@ -1,3 +1,4 @@
+#Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
 a, b, c = map(float, input("").split())
 #a) a área do triângulo retângulo que tem A por base e C por altura.
 triangulo = (a*c)/2
