@@ -29,6 +29,7 @@
 ***
 
 ## Ferramentas e linguagens utilizadas:
+
 <div>
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
     <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"> 
